@@ -148,7 +148,7 @@ nav {
   color: #369e62;
 }
 .sliderItem:nth-child(2) .sliderPrice {
-  color: rgb(28, 20, 20);
+  color: rgb(255, 255, 255);
 }
 .sliderItem:nth-child(3) .sliderPrice {
   color: teal;
